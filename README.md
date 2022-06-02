@@ -70,4 +70,9 @@ Segue abaixo os endpoints disponíveis no projeto.
 ```
 
 ```
+5 - GET BY ID - http://localhost:8080/v1/products/{product_id}
+
+```
+
+```
 </details>
